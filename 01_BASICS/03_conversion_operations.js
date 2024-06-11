@@ -25,5 +25,20 @@ console.log(stringNumber);
 console.log(typeof stringNumber );
 
 //************operations****************** 
+ // console.log(2**2) => power
+
+ let str1 = "hello"
+ let str2 = "hitesh"
 
 
+ console.log("1"+2);
+ console.log("1"+2+2);
+
+console.log(+true) // gives 1 convetrs to boolean
+console.log(+"")   // gives 0 
+
+// prefix and postfix operator read from mdn 
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter)
