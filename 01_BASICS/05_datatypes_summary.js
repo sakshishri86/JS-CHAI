@@ -29,4 +29,10 @@ const myFunction = function(){
     console.log("hello world");      //FUNCTION
 }
 
- // REVISE AND CHECK SOME ERROR
+ // REVISE AND CHECK SOME ERROR 
+ 
+
+
+
+//  stack (for primitive) , heap (for non primitive) are 
+// two types of memory 
